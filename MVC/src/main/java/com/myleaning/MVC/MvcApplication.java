@@ -10,7 +10,8 @@ public class MvcApplication {
 		SpringApplication.run(MvcApplication.class, args);
 	}
 
-	// 3 layers achrci
+	// 3 layers architecture
+
 
 
 
